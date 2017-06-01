@@ -12,7 +12,7 @@ ReactDOM.render(
         <h3><a href='https://facebook.com/koytfilthband'>facebook</a></h3>
         <h3><a href='https://gumroad.com/koytfilthband'>gumroad</a></h3>
         <h3><a href='https://instagram.com/koytfilthband'>instagram</a></h3>
-        <h3><a href='mailto://koytbilthband@gmail.com'>email</a></h3>
+        <h3><a href='mailto:koytfilthband@gmail.com'>email</a></h3>
       </div>
       <h1 className='english'>the filth of yr suspicion</h1>
     </div>
